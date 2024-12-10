@@ -1,0 +1,97 @@
+payload:
+  #!Web of Science
+  #!SCIE (Science Citation Index Expanded)
+  #!SSCI (Social Sciences Citation Index)
+  - DOMAIN-SUFFIX,webofknowledge.com
+  - DOMAIN-SUFFIX,webofscience.com
+
+  #!Nature
+  - DOMAIN-SUFFIX,nature.com
+
+  #!Science
+  - DOMAIN-SUFFIX,science.org
+
+  #!Wiley
+  - DOMAIN,onlinelibrary.wiley.com
+  - DOMAIN-SUFFIX,wiley.com
+
+  #!ACS
+  - DOMAIN-SUFFIX,acs.org
+
+  #!Elsevier
+  #!Cell Press(CP)
+  - DOMAIN-SUFFIX,sciencedirect.com
+
+  #!RSC
+  - DOMAIN-SUFFIX,rsc.org
+
+  #!Scifinder Academic
+  - DOMAIN-SUFFIX,cas.org
+
+  #!AIP (American Institute of Physics)
+  - DOMAIN-SUFFIX,aip.org
+
+  #!ACM Digital Library(ACM)
+  - DOMAIN-SUFFIX,acm.org
+
+  #!Lexis Advance
+  - DOMAIN-SUFFIX,lexis.com
+
+  #!BP (BIOSIS Previews)  
+  #!INSPEC(INSPEC)  
+  #!CPCI (Conference Proceedings Citation Indexes)
+  - DOMAIN-SUFFIX,isiknowledge.com
+
+  #!Cambridge Journals Online
+  - DOMAIN-SUFFIX,cambridge.org
+
+  #!ABI (ABI/INFORM Complete)
+  #!PRL (ProQuest Research Library)
+  - DOMAIN-SUFFIX,proquest.com
+
+  #!APS (The American Physical Society)
+  - DOMAIN-SUFFIX,aps.org
+
+  #!Emerald
+  - DOMAIN-SUFFIX,emerald.com
+  - DOMAIN-SUFFIX,emeraldinsight.com.cn
+
+  #!ESI (Essential Science Indicators)
+  #!JCR (Journal Citation Reports)
+  #!InCites (InCites: Benchmarking)
+  - DOMAIN-SUFFIX,clarivate.com
+
+  #!JSTOR (Journal Storage)
+  - DOMAIN-SUFFIX,jstor.org
+
+  #!SAGE (Sage Premier)
+  - DOMAIN-SUFFIX,sagepub.com
+  - DOMAIN-SUFFIX,cnpereading.com
+
+  #!Taylor&Francis
+  - DOMAIN-SUFFIX,tandfonline.com
+
+  #!IEL (IEEE/IET Elcetronic Library)
+  - DOMAIN-SUFFIX,ieee.org
+
+  #!Springer Online Journals(SLCC)
+  - DOMAIN-SUFFIX,springer.com
+
+  #!EV (Engineering Village Compendex)
+  - DOMAIN-SUFFIX,engineeringvillage.com
+
+  #!IOP (Institute of Physics)
+  - DOMAIN-SUFFIX,iop.org
+  - DOMAIN-SUFFIX,calis.edu.cn
+
+  #!PNAS (Proceedings of the National Academy of Sciences of the United States of America)
+  - DOMAIN-SUFFIX,pnas.org
+
+  #!PQDT (Proquest Dissertation Theses学位论文全文库)
+  - DOMAIN-SUFFIX,pqdtcn.com
+
+  #!DDS (Dissertation Discovery System学位论文发现系统)
+  - DOMAIN-SUFFIX,oadds.cn
+
+  #!Frontiers 《前沿》系列期刊
+  - DOMAIN-SUFFIX,hep.com.cn
