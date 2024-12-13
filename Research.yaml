@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,webofscience.com
 
   #!Nature
+  - DOMAIN,nature.com
   - DOMAIN-SUFFIX,nature.com
 
   #!Science
